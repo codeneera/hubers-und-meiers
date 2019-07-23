@@ -11,3 +11,18 @@ div{
 .meier{
   background: blue;
 }
+#lisa{
+  background: black;  /*Lisa wird nun schwarz*/
+}
+
+
+.huber #lisa{
+  background: green;
+}
+
+.huber div#lisa{
+  background: pink!important;
+}
+
+
+}
